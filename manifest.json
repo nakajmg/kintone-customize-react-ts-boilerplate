@@ -1,0 +1,12 @@
+{
+  "app": "16899",
+  "scope": "ADMIN",
+  "desktop": {
+    "js": ["./dist/desktop/js/main.js"],
+    "css": []
+  },
+  "mobile": {
+    "js": [],
+    "css": []
+  }
+}
