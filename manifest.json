@@ -1,5 +1,5 @@
 {
-  "app": "16899",
+  "app": "",
   "scope": "ADMIN",
   "desktop": {
     "js": ["./dist/desktop/js/main.js"],
